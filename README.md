@@ -35,7 +35,7 @@ Add in your HTML head section
 Proxy DOES NOT ALLOW MUTATING OF PROPERTY ARRAYS!!!
 
 
-If you need to monitor an array whilst keeping it mutatable, you should fall back to Proxy.oo..... apart form this you can use Proxy as is, this is only if you need to observe changes.
+If you need to monitor an array whilst keeping it mutatable, you should fall back to Proxy.oo..... apart form this you can use Proxy as is, this is only if you need to observe changes to an array object whilst keeping it mutatable, this does not allow proxying of an array object whilst keeping it mutatable.
 
 
 ## Usage
