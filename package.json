@@ -1,9 +1,9 @@
 {
-	"name": "proxy-oo-polyfill",
+	"name": "reflect-constructor",
 	"version": "1.0.0",
-	"description": "Hybrid polyfill giving Proxy with Object.observe as Proxy.oo. Allows for 90% polyfill of proxy, plus OO for those wanting to observe with splice/push of array objects if proxy has been polyfilled. Licenced as per Proxy and OO included in polyfill.",
+	"description": "Reflect constructor polyfill for IE11 support of standard web components and build using babel with custom element class support.",
 	"author": "Paul Smith (smiffy6969)",
-	"homepage": "http://bind.razilo.net",
+	"homepage": "http://ulsmith.net",
 	"dependencies": {},
 	"devDependencies": {}
 }
